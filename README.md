@@ -24,7 +24,11 @@ This repository contains the first task of the web development course, featuring
 ## Project Structure
 sct_wd_1/
 ├── index.html
-├── style.css
+├── style.css[index.html](https://github.com/user-attachments/files/22471581/index.html)
+
 └── script.js
 
 Updated README for Task 1
+[script.js](https://github.com/user-attachments/files/22471592/script.js)
+[style.css](https://github.com/user-attachments/files/22471599/style.css)
+[index.html](https://github.com/user-attachments/files/22471611/index.html)
